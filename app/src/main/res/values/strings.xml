@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CalcApp</string>
+    <string name="_1">1つ目の数字を入力してください</string>
+    <string name="_2">2つ目の数字を入力してください</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiplication">*</string>
+    <string name="division">/</string>
+</resources>
